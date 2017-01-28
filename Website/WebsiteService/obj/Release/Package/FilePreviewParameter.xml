@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BWRWebsiteService" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Gebruiker\\documents\\visual\ studio\ 2015\\Projects\\Website\\WebsiteService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Gebruiker\\documents\\visual\ studio\ 2015\\Projects\\Website\\WebsiteService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="WebsiteDomain.WebsiteDatabaseEntities-Web.config Connection String" description="" value="WebsiteDomain.WebsiteDatabaseEntities_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Gebruiker\\documents\\visual\ studio\ 2015\\Projects\\Website\\WebsiteService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebsiteDomain.WebsiteDatabaseEntities']/@connectionString" />
+  </parameter>
+  <parameter name="WebsiteService.Data.WebsiteContext-Web.config Connection String" description="" value="WebsiteService.Data.WebsiteContext_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Gebruiker\\documents\\visual\ studio\ 2015\\Projects\\Website\\WebsiteService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebsiteService.Data.WebsiteContext']/@connectionString" />
+  </parameter>
+</parameters>

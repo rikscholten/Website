@@ -1,0 +1,5 @@
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDatabase\bin\Debug\WebsiteDatabase.dacpac
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDatabase\bin\Debug\WebsiteDatabase.dll
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDatabase\bin\Debug\WebsiteDatabase.pdb
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDatabase\obj\Debug\WebsiteDatabase.dll
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDatabase\obj\Debug\WebsiteDatabase.pdb

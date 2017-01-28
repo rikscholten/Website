@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="default-Web.config Connection String" description="default Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/DataModel.csdl|res://*/DataModel.ssdl|res://*/DataModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=websitedatabaseserver.database.windows.net;initial catalog=WebsiteDatabase;persist security info=True;user id=rikscholten1;password=adminpassword123!;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Gebruiker\\Documents\\Visual\ Studio\ 2015\\Projects\\Website\\WebsiteService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='default']/@connectionString" />
+  </parameter>
+  <parameter name="WebsiteDomain.WebsiteDatabaseEntities-Web.config Connection String" description="WebsiteDomain.WebsiteDatabaseEntities Connection String used in web.config by the application to access the database." defaultValue="WebsiteDomain.WebsiteDatabaseEntities_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Gebruiker\\Documents\\Visual\ Studio\ 2015\\Projects\\Website\\WebsiteService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebsiteDomain.WebsiteDatabaseEntities']/@connectionString" />
+  </parameter>
+</parameters>

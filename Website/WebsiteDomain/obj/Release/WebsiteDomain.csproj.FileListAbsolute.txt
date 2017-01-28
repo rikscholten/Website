@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\WebsiteDomain.dll.config
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\WebsiteDomain.dll
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\WebsiteDomain.pdb
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\EntityFramework.dll
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\EntityFramework.xml
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\obj\Release\WebsiteDomain.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\obj\Release\WebsiteDomain.dll
+C:\Users\Gebruiker\documents\visual studio 2015\Projects\Website\WebsiteDomain\obj\Release\WebsiteDomain.pdb
